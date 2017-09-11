@@ -5,8 +5,6 @@
 //  Source JSon file: "http://api.letsbuildthatapp.com/jsondecodable/website_description" (containing name- description-, courses-elements. NOT the ID-label)
 //  Source JSon file: "http://api.letsbuildthatapp.com/jsondecodable/courses_missing_fields" (containing missing elements)
 //  Keep locs working on each url seperated. When using the one, comment the other. Default website_description-link is used
-//  Created by Nietzsky on 05/09/2017.
-//  Copyright © 2017 Testerik. All rights reserved.
 //
 import UIKit
 
